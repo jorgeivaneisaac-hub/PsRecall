@@ -1,0 +1,54 @@
+# =================
+# Git & Version Control
+# =================
+.git
+.gitignore
+.gitattributes
+
+# =================
+# Documentation & CI/CD
+# =================
+README.md
+CHANGELOG.md
+CONTRIBUTING.md
+CODE_OF_CONDUCT.md
+LICENSE
+.github/
+docs/
+
+# =================
+# Build, Output & Dependencies
+# =================
+/build/
+/bin/
+/out/
+/.cache/
+CMakeCache.txt
+CMakeFiles/
+cmake-install.cmake
+cmake_install.cmake
+Makefile
+*.cmake
+/vcpkg_installed/
+
+# =================
+# IDEs & Local Config
+# =================
+.vscode/
+.idea/
+.vs/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# =================
+# Testing & Coverage
+# =================
+/tests/
+/coverage/
+*.gcno
+*.gcda
+*.gcov
+.codecov

@@ -1,0 +1,77 @@
+# =================
+# IDEs & Editors
+# =================
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+*~
+
+# =================
+# Operating Systems
+# =================
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+Desktop.ini
+
+# =================
+# Build & Output
+# =================
+/build/
+/bin/
+/out/
+/.cache/
+CMakeCache.txt
+CMakeFiles/
+cmake-install.cmake
+cmake_install.cmake
+Makefile
+*.cmake
+
+# =================
+# Visual Studio / MSVC
+# =================
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.suo
+*.user
+*.userosscache
+*.aps
+
+# =================
+# Compiled Objects & Binaries
+# =================
+*.exe
+*.dll
+*.so
+*.dylib
+*.obj
+*.o
+*.lib
+*.a
+*.pdb
+*.idb
+*.exp
+
+# =================
+# Package Managers
+# =================
+/vcpkg_installed/
+
+# =================
+# Testing & Coverage
+# =================
+/coverage/
+*.gcno
+*.gcda
+*.gcov
+.codecov

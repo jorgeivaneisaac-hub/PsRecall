@@ -1,0 +1,42 @@
+# =================
+# Auto Detect / Text Files
+# =================
+* text=auto
+
+# =================
+# C++ Source Files
+# =================
+*.cpp text diff=cpp
+*.hpp text diff=cpp
+*.c text diff=cpp
+*.h text diff=cpp
+*.cc text diff=cpp
+*.hh text diff=cpp
+
+# =================
+# Scripts & Configs
+# =================
+*.sh text eol=lf
+*.yml text
+*.yaml text
+*.json text
+*.cmake text
+CMakeLists.txt text
+
+# =================
+# Documentation
+# =================
+*.md text diff=markdown
+
+# =================
+# Binary & Compiled Assets
+# =================
+*.exe binary
+*.dll binary
+*.so binary
+*.dylib binary
+*.obj binary
+*.o binary
+*.lib binary
+*.a binary
+*.pdb binary

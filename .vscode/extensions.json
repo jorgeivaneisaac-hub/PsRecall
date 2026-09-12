@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "llvm-vs-code-extensions.vscode-clangd",
+    "editorconfig.editorconfig",
+    "wayou.vscode-todo-highlight",
+    "ms-vsliveshare.vsliveshare",
+    "PKief.material-icon-theme"
+  ]
+}

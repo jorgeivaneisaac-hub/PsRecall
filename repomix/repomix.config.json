@@ -1,0 +1,29 @@
+{
+  "output": {
+    "filePath": "repomix/output/repomix-output.md",
+    "style": "markdown",
+    "headerText": "PsRecall - High-Performance C++20 PowerShell Process Search Engine\n====================================================================\n\nEste archivo empaqueta la base de código modular y estandarizada del proyecto PsRecall.\nGenerado automáticamente para análisis e indexación contextual.",
+    "removeComments": false,
+    "showLineNumbers": true
+  },
+  "ignore": {
+    "useGitignore": true,
+    "customPatterns": [
+      "**/legacy/**",
+      "**/build/**",
+      "**/bin/**",
+      "**/bin_tests/**",
+      "*.cvi.lib.p",
+      "*.o",
+      "*.a",
+      "*.so",
+      "*.dll"
+    ]
+  },
+  "include": [
+    "include/**",
+    "src/**",
+    "core/**",
+    "cmake/**"
+  ]
+}

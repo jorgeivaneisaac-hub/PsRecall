@@ -1,0 +1,22 @@
+---
+Checks: >
+  -*,
+  cppcoreguidelines-*,
+  readability-*,
+  performance-*,
+  bugprone-*,
+  modernize-use-override,
+  modernize-use-nullptr,
+  -cppcoreguidelines-avoid-magic-numbers,
+  -readability-magic-numbers
+
+CheckOptions:
+  - key: readability-identifier-naming.VariableCase
+    value: lower_case
+  - key: readability-identifier-naming.FunctionCase
+    value: lower_case
+  - key: readability-identifier-naming.ClassCase
+    value: camel_case
+  - key: readability-identifier-naming.StructCase
+    value: camel_case
+...

@@ -1,0 +1,35 @@
+{
+  "cmake.buildDirectory": "${workspaceFolder}/build",
+  "cmake.generator": "Ninja",
+  "cmake.copyCompileCommandsToWorkspace": true,
+  "C_Cpp.intelliSenseEngine": "default",
+  "C_Cpp.default.cppStandard": "c++20",
+  "C_Cpp.default.cStandard": "c11",
+  "C_Cpp.errorSquiggles": "enabled",
+  "editor.formatOnSave": true,
+  "files.associations": {
+    "*.hpp": "cpp",
+    "*.cpp": "cpp",
+    "*.cvi.lib.p": "cpp",
+    "iostream": "cpp"
+  },
+  "editor.tabSize": 4,
+  "editor.insertSpaces": true,
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "material-icon-theme.folders.associations": {
+    ".notas.md": "docs",
+    "doxygen": "docs",
+    "repomix": "docs",
+    "standard_libraries_within_the_engine": "src",
+    "test_core_bin": "test",
+    "openai": "robot",
+    "vcpkg": "config",
+    "cmake": "config"
+  },
+  "material-icon-theme.files.associations": {
+    "Doxyfile": "README",
+    "commit_standard.md": "README",
+    "PULL_REQUEST_TEMPLATE.md": "git"
+  }
+}
