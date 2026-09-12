@@ -10,7 +10,6 @@
   "files.associations": {
     "*.hpp": "cpp",
     "*.cpp": "cpp",
-    "*.cvi.lib.p": "cpp",
     "iostream": "cpp"
   },
   "editor.tabSize": 4,
