@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 90" width="100%" height="100%">
+    <!-- Enterprise Clean Vector Logo: Solid geometry, precise alignment, zero raster filters/glows -->
+
+
+    <!-- Geometric Symbol -->
+    <g transform="translate(24, 21)">
+        <!-- Outer Shield / Container -->
+        <rect width="48" height="48" rx="6" fill="#0f172a" />
+        <!-- Precision C++ Terminal / Core Vector Mark -->
+        <path d="M 14 18 L 22 24 L 14 30" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="square" stroke-linejoin="miter" />
+        <line x1="25" y1="30" x2="34" y2="30" stroke="#0ea5e9" stroke-width="3" stroke-linecap="square" />
+    </g>
+
+    <!-- Typography: Strict corporate hierarchy -->
+    <g transform="translate(88, 55)">
+        <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-weight="700" font-size="28" fill="#0f172a" letter-spacing="-0.5">
+        PsRecall
+        </text>
+        <text x="2" y="16" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-weight="600" font-size="9" fill="#64748b" letter-spacing="2.5">
+        NAVIGATION ENGINE
+        </text>
+    </g>
+</svg>

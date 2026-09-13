@@ -1,6 +1,6 @@
-#include "../include/search.hpp"
+#include "../include/core/search.hpp"
 int main() {
-    core::search::Ruta rutas;
-    core::search::Searcher miSercher(rutas);
+    core::search::Ruta rutas{"C:\\Users\\Lenovo\\Desktop"};
+    core::search::Searcher searcher(rutas.ruta);
     return 0;
 }
