@@ -75,3 +75,8 @@ Makefile
 *.gcda
 *.gcov
 .codecov
+
+# =================
+# Entorno venv de el bechmarks
+# =================
+/venv/

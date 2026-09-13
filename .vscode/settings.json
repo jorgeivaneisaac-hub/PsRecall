@@ -24,6 +24,8 @@
     "test_core_bin": "test",
     "openai": "robot",
     "vcpkg": "config",
+    "google": "core",
+    "ruby": "",
     "cmake": "config"
   },
   "material-icon-theme.files.associations": {
