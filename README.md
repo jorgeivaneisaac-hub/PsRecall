@@ -46,3 +46,8 @@ cmake --build build --config Release
 
 ## Contributing
 
+Please read [CONTRIBUTING](CONTRIBUTING.md) for details on our code of conduct, static analysis guidelines (.clang-tidy, .clang-format), and the pull request process.
+
+## License
+
+Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
