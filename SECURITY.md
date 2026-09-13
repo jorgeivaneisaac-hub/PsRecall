@@ -15,7 +15,7 @@ We take the security of PsRecall seriously. If you discover a security vulnerabi
 
 ### Reporting Process
 
-* **Private Disclosure:** Send an email directly to the core maintainers or security contacts at **[Insert Security Email, e.g., security@yourdomain.com]**.
+* **Private Disclosure:** Send an email directly to the core maintainers or security contacts at **[midoridev@gmail.com]**.
 * **Details to Include:** Please provide a detailed description of the vulnerability, steps to reproduce the issue, potential impact, and any proof-of-concept code if available.
 * **Response Timeline:** You will receive an acknowledgment of your report within 48 hours, followed by a detailed assessment and remediation plan as soon as possible.
 
