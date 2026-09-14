@@ -26,6 +26,7 @@ endif()
 # Definir el ejecutable principal
 add_executable(PsRecall
     core/main.cpp
+    include/instaler/instaler.hpp
 )
 
 # Configurar la carpeta include/ para evitar rutas relativas con ../ (#include "...")
